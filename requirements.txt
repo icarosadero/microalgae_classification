@@ -4,3 +4,4 @@ torch
 optuna
 tqdm
 seaborn
+plotly
